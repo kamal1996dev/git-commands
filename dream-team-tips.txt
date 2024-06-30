@@ -2,9 +2,11 @@
 
 2. If one team is strong and the other is weak, select 8 or 9 players from the strong team and 2 or 3 players from the weak team.
 
-3.From the strong team, pick all 5 bowlers and the top-order batsmen. If the all-rounder of the strong team has 
-  bowled only half their overs and there's no chance to bat because the weak team has a low score, 
-  you can skip making them captain and choose them as vice-captain instead
+3.From the strong team, pick all 5 bowlers and the top-order batsmen. 
+
+  If week team is betting first than the all-rounder of the strong team has bowled only half their overs and 
+  there's no chance to bat because the weak team has a low score, you can skip making them captain and choose 
+  them as vice-captain instead
 
 4. If both teams are equally strong and the pitch is good for batting, skip the match.
 
