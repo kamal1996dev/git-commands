@@ -1,12 +1,22 @@
 1. Compare both teams to see which team is stronger.
+
 2. If one team is strong and the other is weak, select 8 or 9 players from the strong team and 2 or 3 players from the weak team.
-3. From the strong team, pick all 5 bowlers and the top-order batsmen. If the all-rounder of strong team has bowled only half their overs, 
-   you can skip making them captain and choose them as vice-captain instead.
+
+3.From the strong team, pick all 5 bowlers and the top-order batsmen. If the all-rounder of the strong team has 
+  bowled only half their overs and there's no chance to bat because the weak team has a low score, 
+  you can skip making them captain and choose them as vice-captain instead
+
 4. If both teams are equally strong and the pitch is good for batting, skip the match.
+
 5. If both teams are equally strong and the pitch is good for bowling, 
    pick spin bowlers from the team batting first and top-order batsmen and bowlers from the team batting second.
+
 6. Pitch report is important.
+
 7. Skip the first match of any team.
+
 8. Count how many bowling options each team has.
+
 9. Count how many left-handed and right-handed players each team has.
+
 10. If you drop a highly selected player, choose an important player to replace them.
