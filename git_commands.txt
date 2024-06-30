@@ -1,4 +1,13 @@
 Viewing Configuration
 1.View all settings  -> git config --list
+
 2.View a specific setting -> git config user.name
-3.git status
+
+3.Using git revert last commit
+ This method creates a new commit that undoes the changes made by the last commit. 
+ This is a safe method as it preserves the commit history.
+ command -> git revert HEAD
+
+4.Using git reset
+ To undo the last commit but keep the changes in your working directory, run:->git reset --soft HEAD~1
+ To undo the last commit and discard the changes, run: -> git reset --hard HEAD~1
