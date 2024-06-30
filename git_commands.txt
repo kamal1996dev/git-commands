@@ -1,3 +1,4 @@
 Viewing Configuration
 1.View all settings  -> git config --list
 2.View a specific setting -> git config user.name
+3.git status
